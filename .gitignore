@@ -1,0 +1,9 @@
+# Erlang compile directory
+/ebin/
+
+# any erlang compiled file
+*.beam
+
+# emacs temporary files
+*.*~
+

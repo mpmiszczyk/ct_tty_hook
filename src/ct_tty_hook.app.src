@@ -1,0 +1,10 @@
+{application, ct_tty_hook, [
+	{description, ""},
+	{vsn, "0.1.0"},
+	{modules, []},
+	{registered, []},
+	{applications, [
+		kernel,
+		stdlib
+	]}
+]}.
